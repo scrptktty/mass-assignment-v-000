@@ -8,5 +8,6 @@ class Person
   end
 
   def self.send(key=, value)
+    "#{method_name}="
   end
 end
