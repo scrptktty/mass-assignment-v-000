@@ -1,3 +1,3 @@
 class Person
-  #your code here
+  self.send("#{method_name}=", value)
 end
